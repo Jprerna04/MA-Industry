@@ -1,0 +1,50 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 22 Feb 2025 09:41:59 at https://thewebmax.org/industro/index-2.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://thewebmax.org/industro/index-2.html -O1 "C:\Users\mitta\Downloads\MA Industry" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:42:27	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/images/favicon.ico (from https://thewebmax.org/industro/index-2.html)
+09:46:10	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/css/owl.video.play.png (from https://thewebmax.org/industro/css/owl.carousel.min.css)
+09:46:10	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/images/background/count-bg.png (from https://thewebmax.org/industro/css/style.css)
+09:46:10	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/images/background/brush-left.png (from https://thewebmax.org/industro/css/style.css)
+09:46:10	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/images/background/girl-right.png (from https://thewebmax.org/industro/css/style.css)
+09:46:10	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/img/patterns/oblique_dots.png (from https://thewebmax.org/industro/css/lc_lightbox.css)
+09:46:10	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/img/patterns/pattern-1.png (from https://thewebmax.org/industro/css/lc_lightbox.css)
+09:46:10	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/img/patterns/pattern-dot-1.png (from https://thewebmax.org/industro/css/lc_lightbox.css)
+09:46:10	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/img/patterns/pattern-dot-2.png (from https://thewebmax.org/industro/css/lc_lightbox.css)
+09:46:10	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/img/patterns/pattern-dot-b1.png (from https://thewebmax.org/industro/css/lc_lightbox.css)
+09:46:10	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/img/patterns/pattern-dot-b2.png (from https://thewebmax.org/industro/css/lc_lightbox.css)
+09:46:10	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/img/patterns/pattern-dot-b3.png (from https://thewebmax.org/industro/css/lc_lightbox.css)
+09:46:10	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/img/patterns/pattern-dot-b4.png (from https://thewebmax.org/industro/css/lc_lightbox.css)
+09:46:10	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/img/patterns/pattern-triangle-05.png (from https://thewebmax.org/industro/css/lc_lightbox.css)
+09:46:10	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/img/patterns/pattern-triangle-10.png (from https://thewebmax.org/industro/css/lc_lightbox.css)
+09:46:10	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/img/patterns/pattern-triangle-20.png (from https://thewebmax.org/industro/css/lc_lightbox.css)
+09:46:10	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/img/patterns/pattern-triangle-30.png (from https://thewebmax.org/industro/css/lc_lightbox.css)
+09:46:10	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/img/patterns/pattern-triangle-40.png (from https://thewebmax.org/industro/css/lc_lightbox.css)
+09:46:10	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/img/patterns/pattern-ver-line-10.png (from https://thewebmax.org/industro/css/lc_lightbox.css)
+09:46:10	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/img/patterns/pattern-ver-line-20.png (from https://thewebmax.org/industro/css/lc_lightbox.css)
+09:46:10	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/img/patterns/pattern-ver-line-30.png (from https://thewebmax.org/industro/css/lc_lightbox.css)
+09:46:10	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/img/patterns/pattern-ver-line-40.png (from https://thewebmax.org/industro/css/lc_lightbox.css)
+09:46:10	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/img/patterns/pattern-ver-line-50.png (from https://thewebmax.org/industro/css/lc_lightbox.css)
+09:46:14	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/contact.html (from https://thewebmax.org/industro/index-9.html)
+09:46:14	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/project-single.html (from https://thewebmax.org/industro/index-9.html)
+09:46:16	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/images/background/building-bg.png (from https://thewebmax.org/industro/index-11.html)
+09:46:16	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/service-detail.html (from https://thewebmax.org/industro/index-11.html)
+09:46:16	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/our-team-detail.html (from https://thewebmax.org/industro/index-11.html)
+09:46:16	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/our-team.html (from https://thewebmax.org/industro/index-11.html)
+09:46:22	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/popper.js (from https://thewebmax.org/industro/js/bootstrap.min.js)
+09:46:22	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/Trident/ (from https://thewebmax.org/industro/js/lc_lightbox.lite.js)
+09:46:22	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/TweenLite.js (from https://thewebmax.org/industro/plugins/revolution/revolution/js/jquery.themepunch.tools.min.js)
+09:46:22	Error: 	"Not Found" (404) at link https://thewebmax.org/TweenLite.js (from https://thewebmax.org/industro/plugins/revolution/revolution/js/jquery.themepunch.tools.min.js)
+09:46:22	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/Version/ (from https://thewebmax.org/industro/plugins/revolution/revolution/js/jquery.themepunch.tools.min.js)
+09:46:22	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/themepunch.revolution.min.js (from https://thewebmax.org/industro/plugins/revolution/revolution/js/jquery.themepunch.revolution.min.js)
+09:46:22	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/jquery.themepunch.revolution.min.js (from https://thewebmax.org/industro/plugins/revolution/revolution/js/jquery.themepunch.revolution.min.js)
+09:46:22	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/jquery.themepunch.revolution.js (from https://thewebmax.org/industro/plugins/revolution/revolution/js/jquery.themepunch.revolution.min.js)
+09:46:22	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/images/transparent.png (from https://thewebmax.org/industro/plugins/revolution/revolution/js/jquery.themepunch.revolution.min.js)
+09:46:22	Error: 	"Not Found" (404) at link https://thewebmax.org/industro/assets/transparent.png (from https://thewebmax.org/industro/plugins/revolution/revolution/js/jquery.themepunch.revolution.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 23 seconds : 1085 links scanned, 1045 files written (94773698 bytes overall) [59350661 bytes received at 225667 bytes/sec], 41715361 bytes transferred using HTTP compression in 686 files, ratio 13%, 49.3 requests per connection
+(39 errors, 0 warnings, 0 messages)
